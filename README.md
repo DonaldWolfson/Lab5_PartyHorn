@@ -1,6 +1,6 @@
 # CSE 110, Lab 5
 
-Name: Donald Wolfson
+Name: Donald Wolfson (A15417806)
 
 Email: dwolfson@ucsd.edu
 
